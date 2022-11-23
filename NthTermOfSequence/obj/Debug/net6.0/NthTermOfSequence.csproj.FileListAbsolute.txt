@@ -1,0 +1,15 @@
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/bin/Debug/net6.0/NthTermOfSequence
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/bin/Debug/net6.0/NthTermOfSequence.deps.json
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/bin/Debug/net6.0/NthTermOfSequence.runtimeconfig.json
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/bin/Debug/net6.0/NthTermOfSequence.dll
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/bin/Debug/net6.0/NthTermOfSequence.pdb
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.csproj.AssemblyReference.cache
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.AssemblyInfoInputs.cache
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.AssemblyInfo.cs
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.csproj.CoreCompileInputs.cache
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.dll
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/refint/NthTermOfSequence.dll
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.pdb
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/NthTermOfSequence.genruntimeconfig.cache
+/home/hugovasko/RiderProjects/NthTermOfSequence/NthTermOfSequence/obj/Debug/net6.0/ref/NthTermOfSequence.dll
